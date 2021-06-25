@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a simple next example with typescript and styled components configs.
+To use this example use this comand:
+
+```
+npx create-next-app . -e https://github.com/Gabriel-Rabeloo/next-example-with-typescript-and-styled-components
+```
 
 ## Getting Started
 
